@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Paragraph and Link</title>
+</head>
+<body>
+    <p>This is a paragraph with a link <a href="https://orderific.com/login" target="_blank">hyperlink</a>.</p>
+</body>
+</html>
